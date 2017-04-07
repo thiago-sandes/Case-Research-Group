@@ -1,0 +1,5 @@
+Instruções:
+
+Para executar script, antes de tudo, é necessário que os arquivos .mol estejam no mesmo diretório que ele. Satisfazendo essa condição, basta navegar pela linha de comando até o local em que está o script e executá-lo através do comando: "python pythonScript.py". Após a finalização do script, será criada a base de dados com todos os arquivos .mol em um arquivos .sdf com o nome da base que você escolheu. 
+
+Enjoy the script and be happy!
